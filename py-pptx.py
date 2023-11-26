@@ -8,7 +8,8 @@
 # Version :     date    :  reason
 #  1.0      2023.11.26     first create
 #
-# ref     : https://python-pptx.readthedocs.io/en/latest/user/quickstart.html
+# ref     : https://python-pptx.readthedocs.io/en/latest/index.html
+#           https://python-pptx.readthedocs.io/en/latest/user/quickstart.html
 #
 ####################################################################################################
 ### This first line is for modules to work with Python 2 or 3
